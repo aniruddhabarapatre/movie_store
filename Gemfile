@@ -17,3 +17,5 @@ group :development, :test do
   gem 'spring'
   gem 'better_errors'
 end
+
+gem 'foundation-rails'
